@@ -51,3 +51,12 @@ body{
     background-color: cadetblue;
     
 }
+
+footer{
+    background: grey;
+    height: 5rem;
+    font-size: 3rem;
+    color: white;
+    
+
+}
